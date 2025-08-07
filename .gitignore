@@ -1,3 +1,5 @@
+.DS_Store
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -18,4 +20,9 @@
 go.work
 
 # llm-context binary
-llm-context
+bin/llm-context
+
+GEMINI.md
+
+.llm-context.json
+llm-context.xml
