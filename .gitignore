@@ -22,6 +22,8 @@ go.work
 # llm-context binary
 bin/llm-context
 
+dist/
+
 GEMINI.md
 
 .llm-context.json
